@@ -1,8 +1,8 @@
 #@title 3.Get source and target image or video, and start to replace
 import os, sys
 source = "../content/source.jpg" #@param {type:"string"}
-target = "../content/onevideo.mp4" #@param {type:"string"}
-output = "../content/myvideo.mp4" #@param {type:"string"}
+target = "../content/one.jpg" #@param {type:"string"}
+output = "../content/newphotoupdated.jpg" #@param {type:"string"}
 
 Device = "cpu" #@param ["cuda", "cpu"]
 
